@@ -1,0 +1,26 @@
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP5\NilaiAkhir\NilaiAkhir\bin\Debug\NilaiAkhir.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP5\NilaiAkhir\NilaiAkhir\bin\Debug\NilaiAkhir.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP5\NilaiAkhir\NilaiAkhir\bin\Debug\NilaiAkhir.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP5\NilaiAkhir\NilaiAkhir\bin\Debug\NilaiAkhir.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP5\NilaiAkhir\NilaiAkhir\obj\Debug\NilaiAkhir.vbprojResolveAssemblyReference.cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP5\NilaiAkhir\NilaiAkhir\obj\Debug\NilaiAkhir.Form1.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP5\NilaiAkhir\NilaiAkhir\obj\Debug\NilaiAkhir.Resources.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP5\NilaiAkhir\NilaiAkhir\obj\Debug\NilaiAkhir.vbproj.GenerateResource.Cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP5\NilaiAkhir\NilaiAkhir\obj\Debug\NilaiAkhir.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP5\NilaiAkhir\NilaiAkhir\obj\Debug\NilaiAkhir.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP5\NilaiAkhir\NilaiAkhir\obj\Debug\NilaiAkhir.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP5\NilaiAkhir\NilaiAkhir\obj\Debug\NilaiAkhir.Form2.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP5\NilaiAkhir\NilaiAkhir\obj\Debug\NilaiAkhir.Form3.resources
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\latihan5\LatihanP5\LatihanP5\NilaiAkhir\NilaiAkhir\bin\Debug\NilaiAkhir.exe.config
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\latihan5\LatihanP5\LatihanP5\NilaiAkhir\NilaiAkhir\obj\Debug\NilaiAkhir.exe
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\latihan5\LatihanP5\LatihanP5\NilaiAkhir\NilaiAkhir\obj\Debug\NilaiAkhir.xml
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\latihan5\LatihanP5\LatihanP5\NilaiAkhir\NilaiAkhir\obj\Debug\NilaiAkhir.pdb
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\latihan5\LatihanP5\LatihanP5\NilaiAkhir\NilaiAkhir\bin\Debug\NilaiAkhir.exe
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\latihan5\LatihanP5\LatihanP5\NilaiAkhir\NilaiAkhir\bin\Debug\NilaiAkhir.pdb
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\latihan5\LatihanP5\LatihanP5\NilaiAkhir\NilaiAkhir\bin\Debug\NilaiAkhir.xml
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\latihan5\LatihanP5\LatihanP5\NilaiAkhir\NilaiAkhir\obj\Debug\NilaiAkhir.vbprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\latihan5\LatihanP5\LatihanP5\NilaiAkhir\NilaiAkhir\obj\Debug\NilaiAkhir.Form1.resources
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\latihan5\LatihanP5\LatihanP5\NilaiAkhir\NilaiAkhir\obj\Debug\NilaiAkhir.Form2.resources
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\latihan5\LatihanP5\LatihanP5\NilaiAkhir\NilaiAkhir\obj\Debug\NilaiAkhir.Form3.resources
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\latihan5\LatihanP5\LatihanP5\NilaiAkhir\NilaiAkhir\obj\Debug\NilaiAkhir.Resources.resources
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\latihan5\LatihanP5\LatihanP5\NilaiAkhir\NilaiAkhir\obj\Debug\NilaiAkhir.vbproj.GenerateResource.Cache
