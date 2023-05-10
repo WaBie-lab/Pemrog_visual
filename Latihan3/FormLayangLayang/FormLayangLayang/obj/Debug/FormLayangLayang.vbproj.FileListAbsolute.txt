@@ -1,0 +1,14 @@
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormLayangLayang\FormLayangLayang\bin\Debug\FormLayangLayang.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormLayangLayang\FormLayangLayang\bin\Debug\FormLayangLayang.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormLayangLayang\FormLayangLayang\bin\Debug\FormLayangLayang.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormLayangLayang\FormLayangLayang\bin\Debug\FormLayangLayang.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormLayangLayang\FormLayangLayang\obj\Debug\FormLayangLayang.Form1.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormLayangLayang\FormLayangLayang\obj\Debug\FormLayangLayang.Resources.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormLayangLayang\FormLayangLayang\obj\Debug\FormLayangLayang.vbproj.GenerateResource.Cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormLayangLayang\FormLayangLayang\obj\Debug\FormLayangLayang.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormLayangLayang\FormLayangLayang\obj\Debug\FormLayangLayang.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormLayangLayang\FormLayangLayang\obj\Debug\FormLayangLayang.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP3\FormLayangLayang\FormLayangLayang\bin\Debug\FormLayangLayang.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP3\FormLayangLayang\FormLayangLayang\obj\Debug\FormLayangLayang.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP3\FormLayangLayang\FormLayangLayang\obj\Debug\FormLayangLayang.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP3\FormLayangLayang\FormLayangLayang\obj\Debug\FormLayangLayang.pdb
