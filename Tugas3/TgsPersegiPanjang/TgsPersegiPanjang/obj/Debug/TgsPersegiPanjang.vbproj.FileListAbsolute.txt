@@ -1,0 +1,10 @@
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsPersegiPanjang\TgsPersegiPanjang\bin\Debug\FormPersegiPanjang.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsPersegiPanjang\TgsPersegiPanjang\obj\Debug\FormPersegiPanjang.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsPersegiPanjang\TgsPersegiPanjang\obj\Debug\FormPersegiPanjang.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsPersegiPanjang\TgsPersegiPanjang\obj\Debug\FormPersegiPanjang.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsPersegiPanjang\TgsPersegiPanjang\bin\Debug\FormPersegiPanjang.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsPersegiPanjang\TgsPersegiPanjang\bin\Debug\FormPersegiPanjang.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsPersegiPanjang\TgsPersegiPanjang\bin\Debug\FormPersegiPanjang.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsPersegiPanjang\TgsPersegiPanjang\obj\Debug\FormPersegiPanjang.Form1.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsPersegiPanjang\TgsPersegiPanjang\obj\Debug\FormPersegiPanjang.Resources.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsPersegiPanjang\TgsPersegiPanjang\obj\Debug\TgsPersegiPanjang.vbproj.GenerateResource.Cache

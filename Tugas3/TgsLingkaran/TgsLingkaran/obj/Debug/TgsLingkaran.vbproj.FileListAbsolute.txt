@@ -1,0 +1,10 @@
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsLingkaran\TgsLingkaran\bin\Debug\FormPersegi.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsLingkaran\TgsLingkaran\obj\Debug\FormPersegi.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsLingkaran\TgsLingkaran\obj\Debug\FormPersegi.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsLingkaran\TgsLingkaran\obj\Debug\FormPersegi.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsLingkaran\TgsLingkaran\bin\Debug\FormPersegi.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsLingkaran\TgsLingkaran\bin\Debug\FormPersegi.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsLingkaran\TgsLingkaran\bin\Debug\FormPersegi.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsLingkaran\TgsLingkaran\obj\Debug\FormPersegi.Form1.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsLingkaran\TgsLingkaran\obj\Debug\FormPersegi.Resources.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsLingkaran\TgsLingkaran\obj\Debug\TgsLingkaran.vbproj.GenerateResource.Cache

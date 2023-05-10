@@ -1,0 +1,8 @@
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormLingkaran\FormLingkaran\bin\Debug\FormPersegi.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormLingkaran\FormLingkaran\obj\Debug\FormPersegi.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormLingkaran\FormLingkaran\obj\Debug\FormPersegi.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormLingkaran\FormLingkaran\obj\Debug\FormPersegi.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP3\FormLingkaran\FormLingkaran\bin\Debug\FormPersegi.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP3\FormLingkaran\FormLingkaran\obj\Debug\FormPersegi.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP3\FormLingkaran\FormLingkaran\obj\Debug\FormPersegi.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP3\FormLingkaran\FormLingkaran\obj\Debug\FormPersegi.pdb

@@ -1,0 +1,11 @@
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormPersegi\FormPersegi\bin\Debug\FormPersegi.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormPersegi\FormPersegi\bin\Debug\FormPersegi.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormPersegi\FormPersegi\bin\Debug\FormPersegi.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormPersegi\FormPersegi\bin\Debug\FormPersegi.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormPersegi\FormPersegi\obj\Debug\FormPersegi.vbprojResolveAssemblyReference.cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormPersegi\FormPersegi\obj\Debug\FormPersegi.Form1.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormPersegi\FormPersegi\obj\Debug\FormPersegi.Resources.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormPersegi\FormPersegi\obj\Debug\FormPersegi.vbproj.GenerateResource.Cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormPersegi\FormPersegi\obj\Debug\FormPersegi.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormPersegi\FormPersegi\obj\Debug\FormPersegi.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormPersegi\FormPersegi\obj\Debug\FormPersegi.pdb
