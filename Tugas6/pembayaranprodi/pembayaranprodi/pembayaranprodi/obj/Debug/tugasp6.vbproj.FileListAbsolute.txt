@@ -1,0 +1,26 @@
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\tugasp6\tugasp6\bin\Debug\tugasp6.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\tugasp6\tugasp6\bin\Debug\tugasp6.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\tugasp6\tugasp6\bin\Debug\tugasp6.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\tugasp6\tugasp6\bin\Debug\tugasp6.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\tugasp6\tugasp6\obj\Debug\tugasp6.vbprojResolveAssemblyReference.cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\tugasp6\tugasp6\obj\Debug\tugasp6.Form1.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\tugasp6\tugasp6\obj\Debug\tugasp6.Resources.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\tugasp6\tugasp6\obj\Debug\tugasp6.vbproj.GenerateResource.Cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\tugasp6\tugasp6\obj\Debug\tugasp6.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\tugasp6\tugasp6\obj\Debug\tugasp6.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\tugasp6\tugasp6\obj\Debug\tugasp6.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\pembayaranprodi\pembayaranprodi\bin\Debug\tugasp6.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\pembayaranprodi\pembayaranprodi\obj\Debug\tugasp6.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\pembayaranprodi\pembayaranprodi\obj\Debug\tugasp6.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\pembayaranprodi\pembayaranprodi\obj\Debug\tugasp6.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\pembayaranprodi\pembayaranprodi\bin\Debug\tugasp6.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\pembayaranprodi\pembayaranprodi\bin\Debug\tugasp6.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\pembayaranprodi\pembayaranprodi\bin\Debug\tugasp6.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\pembayaranprodi\pembayaranprodi\obj\Debug\tugasp6.vbprojResolveAssemblyReference.cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\pembayaranprodi\pembayaranprodi\obj\Debug\tugasp6.Form1.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\pembayaranprodi\pembayaranprodi\obj\Debug\tugasp6.Resources.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\pembayaranprodi\pembayaranprodi\obj\Debug\tugasp6.vbproj.GenerateResource.Cache
+C:\Users\Dell\Documents\coba\pembayaranprodi\pembayaranprodi\bin\Debug\tugasp6.exe.config
+C:\Users\Dell\Documents\coba\pembayaranprodi\pembayaranprodi\obj\Debug\tugasp6.exe
+C:\Users\Dell\Documents\coba\pembayaranprodi\pembayaranprodi\obj\Debug\tugasp6.xml
+C:\Users\Dell\Documents\coba\pembayaranprodi\pembayaranprodi\obj\Debug\tugasp6.pdb

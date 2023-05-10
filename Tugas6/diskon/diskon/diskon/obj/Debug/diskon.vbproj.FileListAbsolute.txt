@@ -1,0 +1,33 @@
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\diskon\diskon\bin\Debug\diskon.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\diskon\diskon\bin\Debug\diskon.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\diskon\diskon\bin\Debug\diskon.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\diskon\diskon\bin\Debug\diskon.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\diskon\diskon\obj\Debug\diskon.vbprojResolveAssemblyReference.cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\diskon\diskon\obj\Debug\diskon.Form1.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\diskon\diskon\obj\Debug\diskon.Resources.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\diskon\diskon\obj\Debug\diskon.vbproj.GenerateResource.Cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\diskon\diskon\obj\Debug\diskon.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\diskon\diskon\obj\Debug\diskon.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp6\diskon\diskon\obj\Debug\diskon.pdb
+C:\Users\Dell\Documents\coba\diskon\diskon\bin\Debug\diskon.exe.config
+C:\Users\Dell\Documents\coba\diskon\diskon\obj\Debug\diskon.exe
+C:\Users\Dell\Documents\coba\diskon\diskon\obj\Debug\diskon.xml
+C:\Users\Dell\Documents\coba\diskon\diskon\obj\Debug\diskon.pdb
+C:\Users\Dell\Documents\coba\diskon\diskon\obj\Debug\diskon.vbprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\coba\diskon\diskon\obj\Debug\diskon.Form1.resources
+C:\Users\Dell\Documents\coba\diskon\diskon\obj\Debug\diskon.Resources.resources
+C:\Users\Dell\Documents\coba\diskon\diskon\obj\Debug\diskon.vbproj.GenerateResource.Cache
+C:\Users\Dell\Documents\coba\diskon\diskon\bin\Debug\diskon.exe
+C:\Users\Dell\Documents\coba\diskon\diskon\bin\Debug\diskon.pdb
+C:\Users\Dell\Documents\coba\diskon\diskon\bin\Debug\diskon.xml
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\tugas6\diskon\diskon\diskon\bin\Debug\diskon.exe.config
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\tugas6\diskon\diskon\diskon\obj\Debug\diskon.exe
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\tugas6\diskon\diskon\diskon\obj\Debug\diskon.xml
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\tugas6\diskon\diskon\diskon\obj\Debug\diskon.pdb
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\tugas6\diskon\diskon\diskon\bin\Debug\diskon.exe
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\tugas6\diskon\diskon\diskon\bin\Debug\diskon.pdb
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\tugas6\diskon\diskon\diskon\bin\Debug\diskon.xml
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\tugas6\diskon\diskon\diskon\obj\Debug\diskon.vbprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\tugas6\diskon\diskon\diskon\obj\Debug\diskon.Form1.resources
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\tugas6\diskon\diskon\diskon\obj\Debug\diskon.Resources.resources
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\tugas6\diskon\diskon\diskon\obj\Debug\diskon.vbproj.GenerateResource.Cache
