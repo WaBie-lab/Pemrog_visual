@@ -1,0 +1,4 @@
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsBelahketupat\TgsBelahketupat\bin\Debug\FormBelahKetupat.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsBelahketupat\TgsBelahketupat\obj\Debug\FormBelahKetupat.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsBelahketupat\TgsBelahketupat\obj\Debug\FormBelahKetupat.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsBelahketupat\TgsBelahketupat\obj\Debug\FormBelahKetupat.pdb
