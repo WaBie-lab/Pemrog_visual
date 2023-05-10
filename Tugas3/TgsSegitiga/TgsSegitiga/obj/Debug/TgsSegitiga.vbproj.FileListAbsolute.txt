@@ -1,0 +1,11 @@
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsSegitiga\TgsSegitiga\bin\Debug\TgsSegitiga.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsSegitiga\TgsSegitiga\bin\Debug\TgsSegitiga.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsSegitiga\TgsSegitiga\bin\Debug\TgsSegitiga.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsSegitiga\TgsSegitiga\bin\Debug\TgsSegitiga.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsSegitiga\TgsSegitiga\obj\Debug\TgsSegitiga.vbprojResolveAssemblyReference.cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsSegitiga\TgsSegitiga\obj\Debug\TgsSegitiga.Form1.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsSegitiga\TgsSegitiga\obj\Debug\TgsSegitiga.Resources.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsSegitiga\TgsSegitiga\obj\Debug\TgsSegitiga.vbproj.GenerateResource.Cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsSegitiga\TgsSegitiga\obj\Debug\TgsSegitiga.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsSegitiga\TgsSegitiga\obj\Debug\TgsSegitiga.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsSegitiga\TgsSegitiga\obj\Debug\TgsSegitiga.pdb

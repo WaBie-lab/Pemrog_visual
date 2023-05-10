@@ -1,0 +1,10 @@
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsVBola\TgsVBola\bin\Debug\PLVBola.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsVBola\TgsVBola\obj\Debug\PLVBola.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsVBola\TgsVBola\obj\Debug\PLVBola.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsVBola\TgsVBola\obj\Debug\PLVBola.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsVBola\TgsVBola\obj\Debug\PLVBola.Form1.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsVBola\TgsVBola\obj\Debug\PLVBola.Resources.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsVBola\TgsVBola\obj\Debug\TgsVBola.vbproj.GenerateResource.Cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsVBola\TgsVBola\bin\Debug\PLVBola.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsVBola\TgsVBola\bin\Debug\PLVBola.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsVBola\TgsVBola\bin\Debug\PLVBola.xml
