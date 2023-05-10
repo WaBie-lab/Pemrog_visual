@@ -1,0 +1,11 @@
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsVKerucut\TgsVKerucut\bin\Debug\PLVTabung.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsVKerucut\TgsVKerucut\obj\Debug\PLVTabung.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsVKerucut\TgsVKerucut\obj\Debug\PLVTabung.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsVKerucut\TgsVKerucut\obj\Debug\PLVTabung.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsVKerucut\TgsVKerucut\bin\Debug\PLVTabung.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsVKerucut\TgsVKerucut\bin\Debug\PLVTabung.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsVKerucut\TgsVKerucut\bin\Debug\PLVTabung.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsVKerucut\TgsVKerucut\obj\Debug\TgsVKerucut.vbprojResolveAssemblyReference.cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsVKerucut\TgsVKerucut\obj\Debug\PLVTabung.Form1.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsVKerucut\TgsVKerucut\obj\Debug\PLVTabung.Resources.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp3\TgsVKerucut\TgsVKerucut\obj\Debug\TgsVKerucut.vbproj.GenerateResource.Cache
