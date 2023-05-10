@@ -1,0 +1,22 @@
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum5\praktikumSelectCase\praktikumSelectCase\bin\Debug\praktikumSelectCase.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum5\praktikumSelectCase\praktikumSelectCase\bin\Debug\praktikumSelectCase.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum5\praktikumSelectCase\praktikumSelectCase\bin\Debug\praktikumSelectCase.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum5\praktikumSelectCase\praktikumSelectCase\bin\Debug\praktikumSelectCase.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum5\praktikumSelectCase\praktikumSelectCase\obj\Debug\praktikumSelectCase.Form1.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum5\praktikumSelectCase\praktikumSelectCase\obj\Debug\praktikumSelectCase.Resources.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum5\praktikumSelectCase\praktikumSelectCase\obj\Debug\praktikumSelectCase.vbproj.GenerateResource.Cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum5\praktikumSelectCase\praktikumSelectCase\obj\Debug\praktikumSelectCase.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum5\praktikumSelectCase\praktikumSelectCase\obj\Debug\praktikumSelectCase.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum5\praktikumSelectCase\praktikumSelectCase\obj\Debug\praktikumSelectCase.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum5\praktikumSelectCase\praktikumSelectCase\obj\Debug\praktikumSelectCase.Form2.resources
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum5\praktikum5\praktikum5\praktikumSelectCase\praktikumSelectCase\bin\Debug\praktikumSelectCase.exe.config
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum5\praktikum5\praktikum5\praktikumSelectCase\praktikumSelectCase\obj\Debug\praktikumSelectCase.exe
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum5\praktikum5\praktikum5\praktikumSelectCase\praktikumSelectCase\obj\Debug\praktikumSelectCase.xml
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum5\praktikum5\praktikum5\praktikumSelectCase\praktikumSelectCase\obj\Debug\praktikumSelectCase.pdb
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum5\praktikum5\praktikum5\praktikumSelectCase\praktikumSelectCase\bin\Debug\praktikumSelectCase.exe
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum5\praktikum5\praktikum5\praktikumSelectCase\praktikumSelectCase\bin\Debug\praktikumSelectCase.pdb
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum5\praktikum5\praktikum5\praktikumSelectCase\praktikumSelectCase\bin\Debug\praktikumSelectCase.xml
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum5\praktikum5\praktikum5\praktikumSelectCase\praktikumSelectCase\obj\Debug\praktikumSelectCase.Form1.resources
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum5\praktikum5\praktikum5\praktikumSelectCase\praktikumSelectCase\obj\Debug\praktikumSelectCase.Form2.resources
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum5\praktikum5\praktikum5\praktikumSelectCase\praktikumSelectCase\obj\Debug\praktikumSelectCase.Resources.resources
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum5\praktikum5\praktikum5\praktikumSelectCase\praktikumSelectCase\obj\Debug\praktikumSelectCase.vbproj.GenerateResource.Cache
