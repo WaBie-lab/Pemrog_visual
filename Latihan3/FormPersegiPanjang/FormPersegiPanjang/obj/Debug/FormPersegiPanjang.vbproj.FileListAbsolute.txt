@@ -1,0 +1,15 @@
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormPersegiPanjang\FormPersegiPanjang\bin\Debug\FormPersegiPanjang.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormPersegiPanjang\FormPersegiPanjang\bin\Debug\FormPersegiPanjang.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormPersegiPanjang\FormPersegiPanjang\bin\Debug\FormPersegiPanjang.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormPersegiPanjang\FormPersegiPanjang\bin\Debug\FormPersegiPanjang.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormPersegiPanjang\FormPersegiPanjang\obj\Debug\FormPersegiPanjang.Form1.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormPersegiPanjang\FormPersegiPanjang\obj\Debug\FormPersegiPanjang.Resources.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormPersegiPanjang\FormPersegiPanjang\obj\Debug\FormPersegiPanjang.vbproj.GenerateResource.Cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormPersegiPanjang\FormPersegiPanjang\obj\Debug\FormPersegiPanjang.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormPersegiPanjang\FormPersegiPanjang\obj\Debug\FormPersegiPanjang.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormPersegiPanjang\FormPersegiPanjang\obj\Debug\FormPersegiPanjang.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormPersegiPanjang\FormPersegiPanjang\obj\Debug\FormPersegiPanjang.vbprojResolveAssemblyReference.cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP3\FormPersegiPanjang\FormPersegiPanjang\bin\Debug\FormPersegiPanjang.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP3\FormPersegiPanjang\FormPersegiPanjang\obj\Debug\FormPersegiPanjang.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP3\FormPersegiPanjang\FormPersegiPanjang\obj\Debug\FormPersegiPanjang.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP3\FormPersegiPanjang\FormPersegiPanjang\obj\Debug\FormPersegiPanjang.pdb
