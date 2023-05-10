@@ -1,0 +1,15 @@
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormBelahKetupat\FormBelahKetupat\bin\Debug\FormBelahKetupat.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormBelahKetupat\FormBelahKetupat\bin\Debug\FormBelahKetupat.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormBelahKetupat\FormBelahKetupat\bin\Debug\FormBelahKetupat.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormBelahKetupat\FormBelahKetupat\bin\Debug\FormBelahKetupat.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormBelahKetupat\FormBelahKetupat\obj\Debug\FormBelahKetupat.Form1.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormBelahKetupat\FormBelahKetupat\obj\Debug\FormBelahKetupat.Resources.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormBelahKetupat\FormBelahKetupat\obj\Debug\FormBelahKetupat.vbproj.GenerateResource.Cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormBelahKetupat\FormBelahKetupat\obj\Debug\FormBelahKetupat.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormBelahKetupat\FormBelahKetupat\obj\Debug\FormBelahKetupat.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormBelahKetupat\FormBelahKetupat\obj\Debug\FormBelahKetupat.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp2\FormBelahKetupat\FormBelahKetupat\obj\Debug\FormBelahKetupat.vbprojResolveAssemblyReference.cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP3\FormBelahKetupat\FormBelahKetupat\bin\Debug\FormBelahKetupat.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP3\FormBelahKetupat\FormBelahKetupat\obj\Debug\FormBelahKetupat.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP3\FormBelahKetupat\FormBelahKetupat\obj\Debug\FormBelahKetupat.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP3\FormBelahKetupat\FormBelahKetupat\obj\Debug\FormBelahKetupat.pdb
