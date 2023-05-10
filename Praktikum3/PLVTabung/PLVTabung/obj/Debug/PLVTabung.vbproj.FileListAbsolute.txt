@@ -1,0 +1,10 @@
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVTabung\PLVTabung\bin\Debug\PLVTabung.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVTabung\PLVTabung\bin\Debug\PLVTabung.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVTabung\PLVTabung\bin\Debug\PLVTabung.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVTabung\PLVTabung\bin\Debug\PLVTabung.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVTabung\PLVTabung\obj\Debug\PLVTabung.Form1.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVTabung\PLVTabung\obj\Debug\PLVTabung.Resources.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVTabung\PLVTabung\obj\Debug\PLVTabung.vbproj.GenerateResource.Cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVTabung\PLVTabung\obj\Debug\PLVTabung.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVTabung\PLVTabung\obj\Debug\PLVTabung.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVTabung\PLVTabung\obj\Debug\PLVTabung.pdb
