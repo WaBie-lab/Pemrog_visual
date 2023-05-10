@@ -1,0 +1,10 @@
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVKubus\PLVKubus\bin\Debug\PLVKubus.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVKubus\PLVKubus\bin\Debug\PLVKubus.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVKubus\PLVKubus\bin\Debug\PLVKubus.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVKubus\PLVKubus\bin\Debug\PLVKubus.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVKubus\PLVKubus\obj\Debug\PLVKubus.Form1.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVKubus\PLVKubus\obj\Debug\PLVKubus.Resources.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVKubus\PLVKubus\obj\Debug\PLVKubus.vbproj.GenerateResource.Cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVKubus\PLVKubus\obj\Debug\PLVKubus.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVKubus\PLVKubus\obj\Debug\PLVKubus.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVKubus\PLVKubus\obj\Debug\PLVKubus.pdb

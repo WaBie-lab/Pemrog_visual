@@ -1,0 +1,10 @@
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVBola\PLVBola\bin\Debug\PLVBola.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVBola\PLVBola\bin\Debug\PLVBola.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVBola\PLVBola\bin\Debug\PLVBola.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVBola\PLVBola\bin\Debug\PLVBola.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVBola\PLVBola\obj\Debug\PLVBola.Form1.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVBola\PLVBola\obj\Debug\PLVBola.Resources.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVBola\PLVBola\obj\Debug\PLVBola.vbproj.GenerateResource.Cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVBola\PLVBola\obj\Debug\PLVBola.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVBola\PLVBola\obj\Debug\PLVBola.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum3\PLVBola\PLVBola\obj\Debug\PLVBola.pdb
