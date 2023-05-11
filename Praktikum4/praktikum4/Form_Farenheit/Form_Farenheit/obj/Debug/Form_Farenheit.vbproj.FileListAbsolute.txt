@@ -1,0 +1,26 @@
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP4\Form_Farenheit\Form_Farenheit\bin\Debug\Form_Celcius.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Celcius.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Celcius.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Celcius.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum4\Form_Farenheit\Form_Farenheit\bin\Debug\Form_Celcius.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Celcius.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Celcius.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Celcius.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum4\Form_Farenheit\Form_Farenheit\bin\Debug\Form_Celcius.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum4\Form_Farenheit\Form_Farenheit\bin\Debug\Form_Celcius.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum4\Form_Farenheit\Form_Farenheit\bin\Debug\Form_Celcius.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Farenheit.vbprojResolveAssemblyReference.cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Celcius.Form1.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Celcius.Resources.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Farenheit.vbproj.GenerateResource.Cache
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum4\praktikum4\praktikum4\Form_Farenheit\Form_Farenheit\bin\Debug\Form_Celcius.exe.config
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum4\praktikum4\praktikum4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Celcius.exe
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum4\praktikum4\praktikum4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Celcius.xml
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum4\praktikum4\praktikum4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Celcius.pdb
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum4\praktikum4\praktikum4\Form_Farenheit\Form_Farenheit\bin\Debug\Form_Celcius.exe
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum4\praktikum4\praktikum4\Form_Farenheit\Form_Farenheit\bin\Debug\Form_Celcius.pdb
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum4\praktikum4\praktikum4\Form_Farenheit\Form_Farenheit\bin\Debug\Form_Celcius.xml
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum4\praktikum4\praktikum4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Farenheit.vbprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum4\praktikum4\praktikum4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Celcius.Form1.resources
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum4\praktikum4\praktikum4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Celcius.Resources.resources
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum4\praktikum4\praktikum4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Farenheit.vbproj.GenerateResource.Cache
