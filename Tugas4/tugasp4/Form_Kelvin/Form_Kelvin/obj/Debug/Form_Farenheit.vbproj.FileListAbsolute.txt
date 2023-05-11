@@ -1,0 +1,15 @@
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP4\Form_Farenheit\Form_Farenheit\bin\Debug\Form_Celcius.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Celcius.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Celcius.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Latihan\LatihanP4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Celcius.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum4\Form_Farenheit\Form_Farenheit\bin\Debug\Form_Celcius.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Celcius.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Celcius.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Celcius.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum4\Form_Farenheit\Form_Farenheit\bin\Debug\Form_Celcius.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum4\Form_Farenheit\Form_Farenheit\bin\Debug\Form_Celcius.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum4\Form_Farenheit\Form_Farenheit\bin\Debug\Form_Celcius.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Farenheit.vbprojResolveAssemblyReference.cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Celcius.Form1.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Celcius.Resources.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum4\Form_Farenheit\Form_Farenheit\obj\Debug\Form_Farenheit.vbproj.GenerateResource.Cache

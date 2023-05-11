@@ -1,0 +1,11 @@
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp4\Form_Reamur\Form_Reamur\bin\Debug\Form_Celcius.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp4\Form_Reamur\Form_Reamur\obj\Debug\Form_Celcius.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp4\Form_Reamur\Form_Reamur\obj\Debug\Form_Celcius.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp4\Form_Reamur\Form_Reamur\obj\Debug\Form_Celcius.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp4\Form_Reamur\Form_Reamur\obj\Debug\Form_Reamur.vbprojResolveAssemblyReference.cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp4\Form_Reamur\Form_Reamur\obj\Debug\Form_Celcius.Form1.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp4\Form_Reamur\Form_Reamur\obj\Debug\Form_Celcius.Resources.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp4\Form_Reamur\Form_Reamur\obj\Debug\Form_Reamur.vbproj.GenerateResource.Cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp4\Form_Reamur\Form_Reamur\bin\Debug\Form_Celcius.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp4\Form_Reamur\Form_Reamur\bin\Debug\Form_Celcius.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Tugas\tugasp4\Form_Reamur\Form_Reamur\bin\Debug\Form_Celcius.xml
