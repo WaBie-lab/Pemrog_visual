@@ -1,0 +1,24 @@
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum5\praktikumIF1\praktikumIF1\bin\Debug\praktikumIF1.exe.config
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum5\praktikumIF1\praktikumIF1\bin\Debug\praktikumIF1.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum5\praktikumIF1\praktikumIF1\bin\Debug\praktikumIF1.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum5\praktikumIF1\praktikumIF1\bin\Debug\praktikumIF1.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum5\praktikumIF1\praktikumIF1\obj\Debug\praktikumIF1.vbprojResolveAssemblyReference.cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum5\praktikumIF1\praktikumIF1\obj\Debug\praktikumIF1.Form1.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum5\praktikumIF1\praktikumIF1\obj\Debug\praktikumIF1.Resources.resources
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum5\praktikumIF1\praktikumIF1\obj\Debug\praktikumIF1.vbproj.GenerateResource.Cache
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum5\praktikumIF1\praktikumIF1\obj\Debug\praktikumIF1.exe
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum5\praktikumIF1\praktikumIF1\obj\Debug\praktikumIF1.xml
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum5\praktikumIF1\praktikumIF1\obj\Debug\praktikumIF1.pdb
+D:\.KULIAH SHINDY UMC\MATKUL UMC\SEMESTER 6\Pemrograman visual\Praktikum\praktikum5\praktikumIF1\praktikumIF1\obj\Debug\praktikumIF1.Form2.resources
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum5\praktikum5\praktikum5\praktikumIF1\praktikumIF1\bin\Debug\praktikumIF1.exe.config
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum5\praktikum5\praktikum5\praktikumIF1\praktikumIF1\obj\Debug\praktikumIF1.exe
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum5\praktikum5\praktikum5\praktikumIF1\praktikumIF1\obj\Debug\praktikumIF1.xml
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum5\praktikum5\praktikum5\praktikumIF1\praktikumIF1\obj\Debug\praktikumIF1.pdb
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum5\praktikum5\praktikum5\praktikumIF1\praktikumIF1\bin\Debug\praktikumIF1.exe
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum5\praktikum5\praktikum5\praktikumIF1\praktikumIF1\bin\Debug\praktikumIF1.pdb
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum5\praktikum5\praktikum5\praktikumIF1\praktikumIF1\bin\Debug\praktikumIF1.xml
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum5\praktikum5\praktikum5\praktikumIF1\praktikumIF1\obj\Debug\praktikumIF1.vbprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum5\praktikum5\praktikum5\praktikumIF1\praktikumIF1\obj\Debug\praktikumIF1.Form1.resources
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum5\praktikum5\praktikum5\praktikumIF1\praktikumIF1\obj\Debug\praktikumIF1.Form2.resources
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum5\praktikum5\praktikum5\praktikumIF1\praktikumIF1\obj\Debug\praktikumIF1.Resources.resources
+D:\Kuliah\Semester 6\pemrograman_visual-main\pemrograman_visual-main\praktikum5\praktikum5\praktikum5\praktikumIF1\praktikumIF1\obj\Debug\praktikumIF1.vbproj.GenerateResource.Cache
